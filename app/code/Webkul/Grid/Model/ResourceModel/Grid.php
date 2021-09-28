@@ -45,3 +45,5 @@ class Grid extends \Magento\Framework\Model\ResourceModel\Db\AbstractDb
         $this->_init('wk_grid_records', 'entity_id');
     }
 }
+
+
